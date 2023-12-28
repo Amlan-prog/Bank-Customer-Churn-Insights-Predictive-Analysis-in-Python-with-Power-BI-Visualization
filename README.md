@@ -33,6 +33,9 @@ In the face of escalating competition and heightened customer expectations withi
 **Visual Insight**
 Additionally, to enhance the interpretability and accessibility of the project's findings, Power BI was strategically employed to visually demonstrate the intricate analyses. Leveraging the robust visualization capabilities of Power BI, the project encapsulates complex churn prediction results into intuitive and insightful dashboards. These visually compelling representations enable stakeholders to seamlessly comprehend patterns, trends, and critical insights derived from the dataset. Through the integration of Power BI, the project not only ensures the accuracy and precision of the churn prediction model but also facilitates a dynamic and interactive exploration of the data, fostering a deeper understanding of customer behavior and contributing to more informed decision-making within the banking domain.
 
+![image](https://github.com/Amlan-prog/Bank-Customer-Churn-Insights-Predictive-Analysis-in-Python-with-Power-BI-Visualization/assets/106246237/e29fe3fa-c263-4d19-a676-ba15d621a977)
+
+
 
 
 
